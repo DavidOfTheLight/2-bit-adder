@@ -14,4 +14,5 @@ A simple 2-bit adder written in Verilog with a testbench.
 5. You should see correct results in the console and waveform.
 
 ## Waveform
-![Waveform](docs/images/waveform.png)
+
+![Waveform](Waveform.png)
